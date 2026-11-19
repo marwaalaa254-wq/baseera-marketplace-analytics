@@ -290,7 +290,7 @@ inherit that restriction.
 
 ## 21. Contributors
 
-[Basma Mansour](https://github.com/BasmaMansour99), [Radwa El-Ashry](https://github.com/radwaelashry30-crypto)
+[Basma Mansour](https://github.com/BasmaMansour99), [Radwa El-Ashry](https://github.com/radwaelashry30-crypto), Marwa Baraka, Shrouk Khaled
 
 ---
 
