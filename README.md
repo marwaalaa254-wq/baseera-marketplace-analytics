@@ -262,8 +262,7 @@ business-facing summary.
 
 ## 17. Presentation
 
-No presentation file is currently tracked in this repository. If one exists outside
-version control, add it under `presentation/` and link it here.
+[Download the Baseera presentation (PowerPoint)](https://github.com/marwaalaa254-wq/baseera-marketplace-analytics/releases/download/baseera-presentation/Lab02_Baseera_Presentation.pptx)
 
 ## 18. Limitations
 
